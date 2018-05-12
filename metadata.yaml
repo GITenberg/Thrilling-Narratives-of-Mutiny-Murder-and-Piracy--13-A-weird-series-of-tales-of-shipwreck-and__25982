@@ -1,0 +1,54 @@
+_repo: Thrilling-Narratives-of-Mutiny-Murder-and-Piracy--13-A-weird-series-of-tales-of-shipwreck-and__25982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Mutiny'
+- !lcsh 'Seafaring life'
+- !lcsh 'Shipwrecks'
+- !lcsh 'Pirates'
+tableOfContents: Adventures of Capt. Woodward and Five Seamen in the island of Celebes
+  -- An Occurrence at sea -- Loss of H. B. M ship Phœnix, off Cuba -- An account of
+  the Whale Fishery, with anecdotes of the dangers attending it -- Loss of the Brig
+  Tyrrel -- Loss of the Peggy -- Loss of H. B. M. ship Litchfield -- Wreck of the
+  Rothsay Castle Steamer -- Loss of the French ship Droits de L'Homme -- Loss of H.
+  B. M. ship Queen Charlotte -- A Scene on the Atlantic Ocean -- Wreck of the French
+  Frigate Medusa, on the Arguin Bank -- Loss of the Royal George -- Loss of the Æneas,
+  transport -- The Absent Ship -- Loss of the Halsewell, East Indiaman -- An account
+  of Four Russians, abandoned on the Island of East Spitzbergen -- Loss of the Amphitrite,
+  Female Convict Ship -- The Mutineers, a Tale of the Sea -- Fate of Seven Sailors,
+  left on the island of St. Maurice -- Seamen wintering in Spitzbergen -- A Man Overboard
+  -- An Escape through the Cabin-Windows -- Tom Cringle's Log -- Loss of the Nautilus,
+  Sloop of War -- Wreck of a Slave Ship -- The Wrecked Seamen -- Adventures of Philip
+  Ashton -- Explosion of H. B. M. ship Amphion -- Loss of H. B. M. ship La Tribune
+  -- Burning of the Prince, a French East Indiaman -- Wreck of the Schooner Betsey
+  -- Early American Heroism -- Fingal's Cave -- Loss of H. B. M. ship Ramillies --
+  Preservation of Nine Seamen -- Capt. Ross's Expedition -- Loss of the Catharine,
+  Venus, and Piedmont, transports, and three Merchant Ships -- Wreck of the Ship Sidney
+  -- Loss of the Duke William, transport -- Commodore Barney -- Naval Battles of the
+  United States -- Address to the Ocean.
+title: "Thrilling Narratives of Mutiny, Murder and Piracy\r\nA weird series of tales\
+  \ of shipwreck and disaster, from the earliest part of the century to the present\
+  \ time, with accounts of providential escapes and heart-rending fatalities."
+url: http://www.gutenberg.org/ebooks/25982
